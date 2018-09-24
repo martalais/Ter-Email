@@ -1,5 +1,6 @@
 # coding: utf-8
-# Marta Laís (c)
+# Marta Laís, 2018, GASiS3.
+
 # Envio automático de e-mails com anexos via terminal.
 # Após a implementação, basta criar uma rotina no crontab para a sua execução.
 
